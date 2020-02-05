@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jurassic-period/t-jest.svg?branch=master)](https://travis-ci.com/jurassic-period/t-jest)
+
 ## Jest
 
 Для тестов Jest предоставляет две глобальные функции: test и expect. Они доступны без какого-либо импорта, так как Jest делает их глобальными функциями.
